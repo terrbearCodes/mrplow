@@ -253,3 +253,16 @@ a {
 -webkit-transform:rotate(5deg); /* Safari and Chrome */
 -o-transform:rotate(5deg); /* Opera */
 }
+
+#plow2{
+  padding: 5px;
+  transform:rotate(-3deg);
+-ms-transform:rotate(-3deg); /* IE 9 */
+-moz-transform:rotate(-3deg); /* Firefox */
+-webkit-transform:rotate(-3deg); /* Safari and Chrome */
+-o-transform:rotate(-3deg); /* Opera */
+}
+
+#plow3{
+  padding: 5px;
+}
